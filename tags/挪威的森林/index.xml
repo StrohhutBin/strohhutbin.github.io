@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on BinBin Blog</title>
-    <link>https://strohhutbin.github.io/posts/</link>
-    <description>Recent content in Posts on BinBin Blog</description>
+    <title>挪威的森林 on BinBin Blog</title>
+    <link>https://strohhutbin.github.io/tags/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/</link>
+    <description>Recent content in 挪威的森林 on BinBin Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://strohhutbin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://strohhutbin.github.io/posts/hello-world/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://strohhutbin.github.io/posts/hello-world/</guid>
-      <description>&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>只会发生几次的相遇</title>
-      <link>https://strohhutbin.github.io/posts/before-sunset/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://strohhutbin.github.io/posts/before-sunset/</guid>
-      <description>&lt;h2 id=&#34;中文&#34;&gt;中文&lt;/h2&gt;
-&lt;p&gt;年轻的时候，你相信你会遇见很多人，会和很多人心意相通。&lt;/p&gt;
-&lt;p&gt;但后来你发现，这样的事情，一辈子只会发生那么几次。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
-&lt;p&gt;When you&amp;rsquo;re young, you believe you&amp;rsquo;ll meet many people and connect deeply with many of them.&lt;/p&gt;
-&lt;p&gt;Later in life, you realize it only happens a few times.&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;《爱在日落黄昏时》 / &lt;em&gt;Before Sunset&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
+    <atom:link href="https://strohhutbin.github.io/tags/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>那些无法回去的时刻 —— 《挪威的森林》</title>
       <link>https://strohhutbin.github.io/posts/norwegian-wood-quotes/</link>
