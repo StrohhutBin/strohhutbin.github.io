@@ -6,36 +6,12 @@
     <description>Recent content on BinBin Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 23:20:00 +0200</lastBuildDate>
     <atom:link href="https://strohhutbin.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://strohhutbin.github.io/posts/hello-world/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://strohhutbin.github.io/posts/hello-world/</guid>
-      <description>&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>只会发生几次的相遇</title>
-      <link>https://strohhutbin.github.io/posts/before-sunset/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://strohhutbin.github.io/posts/before-sunset/</guid>
-      <description>&lt;h2 id=&#34;中文&#34;&gt;中文&lt;/h2&gt;
-&lt;p&gt;年轻的时候，你相信你会遇见很多人，会和很多人心意相通。&lt;/p&gt;
-&lt;p&gt;但后来你发现，这样的事情，一辈子只会发生那么几次。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
-&lt;p&gt;When you&amp;rsquo;re young, you believe you&amp;rsquo;ll meet many people and connect deeply with many of them.&lt;/p&gt;
-&lt;p&gt;Later in life, you realize it only happens a few times.&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;《爱在日落黄昏时》 / &lt;em&gt;Before Sunset&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
     <item>
       <title>那些无法回去的时刻 —— 《挪威的森林》</title>
       <link>https://strohhutbin.github.io/posts/norwegian-wood-quotes/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 23:20:00 +0200</pubDate>
       <guid>https://strohhutbin.github.io/posts/norwegian-wood-quotes/</guid>
       <description>&lt;h2 id=&#34;有些人只能活在记忆里&#34;&gt;有些人，只能活在记忆里&lt;/h2&gt;
 &lt;p&gt;“每个人都有属于自己的一片森林，迷失的人迷失了，相逢的人会再相逢。”&lt;/p&gt;
@@ -57,6 +33,30 @@
 &lt;p&gt;仿佛那些人不是在书里，而是在你曾经走过的某个夜晚。&lt;/p&gt;
 &lt;p&gt;你以为已经忘记的事情，其实只是被时间轻轻盖住了。&lt;/p&gt;
 &lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>只会发生几次的相遇</title>
+      <link>https://strohhutbin.github.io/posts/before-sunset/</link>
+      <pubDate>Sat, 13 Jun 2026 22:25:00 +0200</pubDate>
+      <guid>https://strohhutbin.github.io/posts/before-sunset/</guid>
+      <description>&lt;h2 id=&#34;中文&#34;&gt;中文&lt;/h2&gt;
+&lt;p&gt;年轻的时候，你相信你会遇见很多人，会和很多人心意相通。&lt;/p&gt;
+&lt;p&gt;但后来你发现，这样的事情，一辈子只会发生那么几次。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
+&lt;p&gt;When you&amp;rsquo;re young, you believe you&amp;rsquo;ll meet many people and connect deeply with many of them.&lt;/p&gt;
+&lt;p&gt;Later in life, you realize it only happens a few times.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《爱在日落黄昏时》 / &lt;em&gt;Before Sunset&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://strohhutbin.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 13 Jun 2026 21:19:00 +0200</pubDate>
+      <guid>https://strohhutbin.github.io/posts/hello-world/</guid>
+      <description>&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
